@@ -61,10 +61,10 @@ Change api domain name
 ```
 3. Change route
 
-Run 
+4. Run 
 ```bash
   npx react-native run-android
 ```
 
-Make sure you've gradle set up with android studio
+!!! Make sure you've gradle set up with android studio
 
