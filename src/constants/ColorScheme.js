@@ -1,0 +1,15 @@
+export default ColorScheme = {
+    white: '#FFF',
+    blackish: '#333',
+    primary: '#212161',
+    secondary: '#5C5CFA',
+    secondaryHover: '#ADADFC',
+    error: '#e7195a',
+    errorSecondary: '#DD7696',
+    success: '#369640',
+    successSecondary: '#82B988',
+    warning: 'orange',
+    grayInput: '#EAEAFF',
+    grayInputText: 'rgba(33,33,97,.5)',
+    grayBackground: '#F5F5FF',
+};
