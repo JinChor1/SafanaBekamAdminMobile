@@ -20,13 +20,13 @@
 ## 📸: Screenshot
 
 ### Home Page
-![image](https://github.com/JinChor1/SafanaBekamAdminMobile/assets/136385395/610b6add-f2c9-4d0e-87f7-9679eb008c12)
+![Screenshot_20230815_182446_com frontendmobile (2)](https://github.com/JinChor1/SafanaBekamAdminMobile/assets/136385395/97dea8eb-6511-494d-b262-bef19d9fe50b)
 
 ### Calendar
-![image](https://github.com/JinChor1/SafanaBekamAdminMobile/assets/136385395/70537990-2490-48ae-9cc0-7c31d8452deb)
+![Screenshot_20230815_182453_com frontendmobile (1)](https://github.com/JinChor1/SafanaBekamAdminMobile/assets/136385395/c48f2c93-496b-4725-a56c-2ea37c8d1872)
 
 ### Profile
-![image](https://github.com/JinChor1/SafanaBekamAdminMobile/assets/136385395/28afe18e-3886-4e2a-a914-0ebb48ae39ed)
+![Screenshot_20230815_182525_com frontendmobile (1)](https://github.com/JinChor1/SafanaBekamAdminMobile/assets/136385395/98a6e91b-cc06-4236-8273-9eb65a32aa3e)
 
 
 <!-- Getting Started -->
